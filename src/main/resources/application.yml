@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      username: root
+      password: root
+      port: 27017
+      database: cinema
